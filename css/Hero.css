@@ -1,0 +1,67 @@
+body{
+	margin: 0;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 20px;
+}
+
+header{
+	background-color: purple;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+h1, h2{
+	font-family: 'Monoton', cursive;
+}
+
+header h1{
+	color: white;
+	font-size: 80px;
+}
+
+header img{
+	border-radius: 150px;
+	width: 300px;
+	border: 10px solid white;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+main img{
+	max-width: 100%;
+}
+
+h2{
+	font-size: 35px;
+	color: purple;
+	margin: 40px 0 10px
+}
+
+a{
+	color: purple;
+}
+a:hover{
+	color:green;
+}
+
+footer{
+	background-color: purple;
+	text-align: center;
+	color: white;
+	padding: 50px;
+}
+
+footer p{
+	margin: 0;
+}
+
+p.caption{
+	color: grey;
+	font-style: italic;
+	margin-top: 0;
+}
